@@ -1,24 +1,22 @@
 # Site Settings
-title: Jekflix | A theme for Jekyll
-email: youremail@xyz.com
-description: Some text about your blog.
+title: Henryworld | Developer note
+email: jymk04130@gmail.com
+description: Blog for Developing AI & BigData.
 baseurl:  # the subpath of your site, e.g. /blog
-url: "https://www.rossener.com" # the base hostname & protocol for your site
+url: "https://github.com/jooyounghun" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: Jekflix
-user_description: Some text about you.
-disqus_username: disqus_username
+username: jooyounghun
+user_description: Undergraduate Stu Kyung Hee Unv Major cs.
+disqus_username: henry
 
 # Social Media
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: jooyounghun
+facebook_username: 주영훈
+instagram_username: younghundiy25
+linkedin_username: younghun joo
 
 # Build settings
 markdown: kramdown
